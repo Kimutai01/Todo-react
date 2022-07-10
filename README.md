@@ -34,8 +34,6 @@ Follow the steps described before.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the https://github.com/silviatofana/awesome-books.
-
 ## Show your support
 
 Give a ⭐️ if you like this project!
